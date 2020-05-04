@@ -1,6 +1,7 @@
 ## Portfolio
 
 ---
+"/images/logo.png"
 
 ### Category Name 1 
 
