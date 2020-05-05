@@ -1,5 +1,4 @@
-github:
-  is_project_page: false
+
 title: Emre Kaya # your name (or website title) here
 logo:  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
@@ -14,3 +13,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://nodds.khas.edu.tr">Blog</a> 
   
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
