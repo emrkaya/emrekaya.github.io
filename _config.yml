@@ -1,5 +1,5 @@
 title: Emre Kaya # your name (or website title) here
-logo: "/images/IMG_0095.jpg"  # your photo (or logo) here
+logo:  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
@@ -8,6 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://nodds.khas.edu.tr">Nodds</a> 
   <br><br>
   <a href="https://nodds.khas.edu.tr">Blog</a> 
-  <img src="images/IMG_0095.jpg" height="12">
-  
+  <br><br>
+  <a href="https://nodds.khas.edu.tr">Blog</a> 
 theme: jekyll-theme-minimal
