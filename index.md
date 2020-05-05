@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-<img src="images/IMG_0095.jpg" class="center" height="30">
+<p style="text-align:center;"><img src="images/IMG_0095.jpg" height="30"></p>
 
 ### Category Name 1 
 
