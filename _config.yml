@@ -1,6 +1,6 @@
 
 title: Emre Kaya # your name (or website title) here
-logo:  <img src="images/IMG_5776.jpg" height="30"> # your photo (or logo) here
+logo:  <img src="/images/IMG_5776.jpg"> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
