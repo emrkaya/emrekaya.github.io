@@ -6,6 +6,7 @@
 ### What I am curious about ?
 ## What I did ?
 
+<p style="text-align:center;"><img src="images/IMG_0095.jpg" height="10"></p>
 ---
 
 ## My Vita
