@@ -3,8 +3,6 @@
 
 ## What I do ?
 
---
-
 ### What I am curious about ?
 ## What I did ?
 
