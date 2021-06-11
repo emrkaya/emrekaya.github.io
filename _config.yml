@@ -1,13 +1,11 @@
 
-title: <p style="color:red;">Emre Kaya </p>  # your name (or website title) here
+title: Emre Kaya  # your name (or website title) here
 logo:  "/images/circle-cropped.jpg" # your photo (or logo) here
 <p style="text-align:center;"><img src="images/IMG_0095.jpg" height="100"></p>
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  PhD Student 
+  PhD Student @ <a href="https://nodds.khas.edu.tr">Nodds Lab</a>
   <br><br>
   Istanbul, TR 
-  <br><br>
-  <a href="https://nodds.khas.edu.tr">Nodds</a> 
   <br><br>
   <a href="https://nodds.khas.edu.tr">Blog</a> 
   <br><br>
