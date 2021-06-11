@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-<p style="text-align:center;"><img src="images/IMG_0095.jpg" height="30"></p>
+<p style="text-align:center;"><img src="images/IMG_0095.jpg" height="100"></p>
 
 ### Category Name 1 
 
@@ -9,22 +9,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
